@@ -1,0 +1,19 @@
+{
+  "alt":10,
+  "alt_type":"BARO",
+  "heading":0,
+  "livery_id":"132 696th Dejjvid",
+  "name":"Pilot #002",
+  "onboard_num":"050",
+  "parking":"2",
+  "parking_id":"06",
+  "psi":-0.4282903753,
+  "ropeLength":15,
+  "skill":"High",
+  "speed":41.6666666667,
+  "type":"Ka-50",
+  "unitId":2,
+  "x":-356069.625,
+  "y":618234.9375,
+  "__version__":14
+}

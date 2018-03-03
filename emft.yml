@@ -11,4 +11,4 @@ source_folder: 'C:\Users\bob\Saved Games\DCS.openbeta\Missions\test_mission'
 # Appveyor
 #
 # EMFT will automatically download
-appveyor: 'https://ci.appveyor.com/project/132nd-etcher/test-mission'
+appveyor: '132nd-etcher/test-mission'
