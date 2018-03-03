@@ -1,0 +1,17 @@
+{
+  "communication":true,
+  "frequency":124,
+  "groupId":1,
+  "hidden":false,
+  "modulation":0,
+  "name":"New Airplane Group",
+  "start_time":0,
+  "task":"CAS",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-317828.046875,
+  "y":895407.1875,
+  "__version__":14
+}

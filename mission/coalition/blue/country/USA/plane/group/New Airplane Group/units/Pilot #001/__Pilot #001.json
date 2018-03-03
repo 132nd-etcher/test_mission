@@ -1,0 +1,16 @@
+{
+  "alt":452,
+  "alt_type":"BARO",
+  "heading":0,
+  "livery_id":"104th FS Maryland ANG, Baltimore (MD)",
+  "name":"Pilot #001",
+  "onboard_num":"010",
+  "psi":1.4163245694,
+  "skill":"High",
+  "speed":138.8888888889,
+  "type":"A-10A",
+  "unitId":1,
+  "x":-317828.046875,
+  "y":895407.1875,
+  "__version__":14
+}

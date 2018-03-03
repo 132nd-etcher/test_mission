@@ -1,0 +1,37 @@
+{
+  "currentKey":10,
+  "descriptionBlueTask":"",
+  "descriptionNeutralsTask":"",
+  "descriptionRedTask":"",
+  "descriptionText":"",
+  "failures":{
+
+  },
+  "forcedOptions":{
+
+  },
+  "goals":{
+
+  },
+  "maxDictId":9,
+  "pictureFileNameB":{
+
+  },
+  "pictureFileNameN":{
+
+  },
+  "pictureFileNameR":{
+
+  },
+  "requiredModules":{
+
+  },
+  "sortie":"",
+  "start_time":28800,
+  "theatre":"Caucasus",
+  "trigrules":{
+
+  },
+  "version":14,
+  "__version__":14
+}

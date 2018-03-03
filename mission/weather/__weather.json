@@ -1,0 +1,12 @@
+{
+  "atmosphere_type":0,
+  "cyclones":{
+
+  },
+  "enable_fog":false,
+  "groundTurbulence":0,
+  "name":"Winter, clean sky",
+  "qnh":760,
+  "type_weather":0,
+  "__version__":14
+}
