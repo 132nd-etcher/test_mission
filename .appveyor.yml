@@ -20,8 +20,7 @@ init:
         throw "There are newer queued builds for this pull request, failing early." }
   
 install:
-  - cmd: choco install 7zip.commandline
-  - cmd: pip install https://github.com/132nd-vWing/EMFT/archive/feature/init.zip#egg=emft
+  - cmd: pip install git+https://github.com/132nd-vWing/EMFT.git@init#egg=emft
 
 build_script:
   - cmd: for /f "delims=" %%i in ('git describe --tags') do set MISSION_VERSION=%%i
